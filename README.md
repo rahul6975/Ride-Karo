@@ -12,6 +12,8 @@
 <a href="https://postimg.cc/06tdqmtM" target="_blank"><img src="https://i.postimg.cc/4dG8VQV5/Screenshot-2021-07-15-15-36-27-811-com-froyo-ridekaro.jpg" alt="Screenshot-2021-07-15-15-36-27-811-com-froyo-ridekaro"/></a><br/><br/>
 <a href="https://postimg.cc/w7K5H9kV" target="_blank"><img src="https://i.postimg.cc/Yq0d69GJ/Screenshot-2021-07-15-15-36-35-298-com-froyo-ridekaro.jpg" alt="Screenshot-2021-07-15-15-36-35-298-com-froyo-ridekaro"/></a>
 
+## Video
+[Video of the App](https://drive.google.com/file/d/1EPFCVisIy01JRMl-3dwIWVPb1_b2M7fq/view?usp=drivesdk)
 
 
 ## Technologies
